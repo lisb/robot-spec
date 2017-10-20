@@ -1,0 +1,21 @@
+{
+  "name": "robot-spec",
+  "version": "0.1.0",
+  "description": "customize robot events hear and response. apply robot and spec.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubot",
+    "robot",
+    "direct",
+    "daab"
+  ],
+  "author": "L is B corp.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lisb/robot-spec/issues"
+  },
+  "homepage": "https://github.com/lisb/robot-spec"
+}
