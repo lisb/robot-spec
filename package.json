@@ -1,6 +1,6 @@
 {
   "name": "robot-spec",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "customize robot events hear and response. apply robot and spec.",
   "main": "lib/index.js",
   "scripts": {
